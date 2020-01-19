@@ -1,6 +1,6 @@
 ###Masonry Grid example
 React, Styled Components, some CSS
 
-![Alt text](readme/demo.png "Optional Title")
-
 [Live demo](https://react-tile.firebaseapp.com/)
+
+![Example](https://github.com/few-bits/react-tile/raw/master/readme/demo.png)
